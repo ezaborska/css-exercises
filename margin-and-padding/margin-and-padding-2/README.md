@@ -15,4 +15,4 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - The content section has 16px space on the top and bottom, and 8px on either side.
 - Everything inside the `.button` section is centered, and there is 8px padding.
 - the Big Button is centered on it's own line.
-- the Big Button has 24px space on the sides, and 8px on top and bottom.
+- the Big Button has 24px space on the sides, and 8px on top and bottom. 
