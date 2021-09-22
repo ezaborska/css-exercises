@@ -18,4 +18,4 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 - Footer has a light gray background (`#eeeeee`).
 - Logo, input and buttons are centered in the screen.
 - Buttons have an appropriate amount of padding.
-- There is space between the logo, input and buttons.
+- There is space between the logo, input and buttons..
