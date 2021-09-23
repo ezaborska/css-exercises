@@ -17,7 +17,7 @@ The number of cards lined up in that section will change based on the width of y
 
 on a smaller screen it will look like this:
 
-![smaller](./desired-outcome-smaller.png)
+![smaller](./desired-outcome-smaller.png).
 
 ### Self Check
 - Header text is size 32px, weight 900
